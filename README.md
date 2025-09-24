@@ -1,2 +1,2 @@
 # vscode-dev
-파이썬 연습
+html 연습
